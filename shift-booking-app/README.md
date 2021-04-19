@@ -1,6 +1,3 @@
-A shift booking app.
-
-[Get the challenge on this repository.](https://github.com/woltapp/react-assignment)
 
 ## Pre-requisites
 * `node` version >= 11
@@ -12,7 +9,7 @@ A shift booking app.
 
 ## How to ...
 
-* install: after cloning the project, open a new terminal `cd` in the newly created folder, and run `npm install`
+* install:  run `npm install`
 
 * Launch (development mode) : in a terminal, launch `npm start`, and in another, `npm run server:start`
 * Launch (production mode) : `npm run prod`
